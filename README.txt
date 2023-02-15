@@ -1,0 +1,3 @@
+Using the hierarchical module analysis analyze the segregation and integration of brain FC networks and explore associations with achizophrenia symptoms.
+
+The code contains: construct of individual static FC network; hierarchical modular partition; calculation of segregation/integration component; construct of stable FC network; stable segregation/integration components; fMRI-length calibration in individual level and regional level; machine learning prediction mode; Effects of SANS and SAPS on the brain. .
